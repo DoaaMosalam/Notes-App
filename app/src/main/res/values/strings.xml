@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Notes </string>
+
+    <string name="search">\tSearch</string>
+    <string name="done">Done</string>
+    <string name="back">Back</string>
+    <string name="title_activity_details_notes">Details_Notes</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="delete">Delete</string>
+    <string name="archive">Archive</string>
+    <string name="share">Share</string>
+    <string name="notes">Notes</string>
+    <string name="edit">Edit</string>
+    <string name="add_images">add Images</string>
+    <string name="type_your_note_here">Type your note here</string>
+    <string name="share_note">Share Note</string>
+    <string name="share_this_note_with_other_and_everyone_will_n_see_the_latest_changes">Share this note with other and everyone will\n see the latest changes.</string>
+    <string name="choose_how_you_d_to_send_your_invitation">Choose how you\'d to send your invitation:</string>
+    <string name="facebook">facebook</string>
+    <string name="instagram">Instagram</string>
+    <string name="google">Google</string>
+    <string name="linkedin">Linkedin</string>
+    <string name="office_365">Office 365</string>
+</resources>
