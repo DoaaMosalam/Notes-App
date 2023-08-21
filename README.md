@@ -3,7 +3,7 @@
 
 <p anlign="center >* This application is for recording daily notes and saving them in Notes.</p>
 
-<p anlign="center >* This application was built (in the Java language) and the use of Firebase to save and modify notes, spread them on many other applications.</p>
+<p anlign=" center >* This application was built (in the Java language) and the use of Firebase to save and modify notes, and spread them on many other applications.</p>
 
 <h2 alighb ="center"> <img src="https://img.freepik.com/premium-vector/man-hand-holding-smartphone-with-blank-white-screen-using-mobile-smart-phone-flat-design-concept-vector-illustration_186332-283.jpg?w=1380" width=20 hight=20> DEMO</h2>
 
